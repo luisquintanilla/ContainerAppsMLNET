@@ -2,7 +2,7 @@
 
 Codigo y recursos de la presentacion "Implementacion de modelos ML.NET con Azure Container Apps" - Global AI 2022 Latinoamerica. 
 
-- [Recursos](http://lqdev.me/presenations/mlnet-globalai-2022.html)
+- [Recursos](http://lqdev.me/presentations/mlnet-globalai-2022.html)
 - [Presentacion](./ImplementacionMLNETAzureContainerApps.pdf)
 
 ## Informacion del proyecto
